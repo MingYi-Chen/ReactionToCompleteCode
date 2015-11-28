@@ -1,6 +1,5 @@
 # ReactionToCompleteCode
-reading experience about CompleteCode
-
+代码大全  汇整、分享
 
 基本信息
 
